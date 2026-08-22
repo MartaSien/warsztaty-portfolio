@@ -2,7 +2,7 @@
 icon: lucide/rocket
 ---
 
-# Brudnopis
+# Zensical w 5 minut
 
 ## Code Blocks
 
