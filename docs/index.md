@@ -39,7 +39,7 @@ Oto notatki do kursu z tworzenia personalnego portfolio przy pomocy statycznego 
 | `05.11` | GitHub i repo na remote |
 | `19.11` | GitHub Actions |
 | `03.12` | Zensical |
-| `03.16` | Wspólna praca nad portfolio |
+| `17.12` | Wspólna praca nad portfolio |
 | :snowman::snowman::snowman: | Przerwa świąteczna |
 | `14.01` | Figma i zakończenie kursu |
 
