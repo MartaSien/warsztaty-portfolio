@@ -1,10 +1,8 @@
 # Warsztaty z tworzenia strony internetowej - personalnego porftolio
 
 Zapraszam na darmowe warsztaty z tworzenia personalnego portfolio przy pomocy statycznego generatora strony internetowej. Warsztaty zostaną przeprowadzone na żywo, w Gdańsku, w siedzibie [Hackerspace Trójmiasto](https://hs3.pl/).
-Warsztaty pokażą Ci, jak wykorzystać Pythona do tworzenia stron, bez konieczności bycia programistą. Dowiesz się z jaką łatwością statyczne generatory stron umożliwiają wprowadzanie zmian i utrzymywanie Twojego portfolio.
-Po zakończeniu projektu będziesz mieć szkielet portfolio, który z łatwością rozbudujesz o swoje projekty i opublikujesz online. A także, dawkę praktycznej wiedzy o programowaniu i narzędziach ułatwiających pracę programisty. Mam nadzieję, że potem już nigdy nie będziesz tęsknić za "wyklikiwaniem" stron internetowych i pokochasz system kontroli wersji tak bardzo jak ja.
-Projekt zakłada stworzenie portfolio w najbardziej popularnym generatorze opartym o język Python: [Pelican](https://getpelican.com/), by przy okazji poznać strukturę tego języka. Dodatkowo, porównamy go z nowym, dynamicznie rozwijanym generatorem opartym o Python i Rust: [Zensical](https://github.com/zensical/zensical).
-Jednak, jeśli chcesz stworzyć swoją stronę w innym popularnym generatorze, takim jak [Jekyll](https://jekyllrb.com/) lub [Hugo](https://gohugo.io/), również otrzymasz w tym wsparcie podczas zajęć.
+
+Szczegółowy opis kursu znajdziesz [tutaj](https://martasien.github.io/warsztaty-portfolio/).
 
 ## Na kursie nauczysz się
 
@@ -24,6 +22,7 @@ Jednak, jeśli chcesz stworzyć swoją stronę w innym popularnym generatorze, t
 
 - Projekt będzie przeprowadzony w konwencji "bring your own laptop".
 - Należy mieć sprzęt, który spełnia minimalne wymagania do instalacji Pythona i programu Visual Studio Code.
-- Zajęcia będą prowadzone na systemie Windows, jest on zalecany, ale nie jest konieczny
+- Zalecany system to Windows, ale z innymi też sobie poradzimy!
 - Na zajęciach konieczne będzie stworzenie darmowego konta GitHub
 - Nie musisz mieć wcześniejszego doświadczenia w programowaniu, nauczymy się tego wspólnie od podstaw
+- Nie bój się popełniać błędów - w programowaniu to świetny nauczyciel. Zadawaj pytania i baw się dobrze! 😄
