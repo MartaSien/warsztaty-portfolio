@@ -61,10 +61,10 @@ Oto notatki do kursu z tworzenia personalnego portfolio przy pomocy statycznego 
     Stworzymy statyczną stronę w generatorze [`Zensical`][zensical].
 
 === "Lekcja 6"
-    Wykorzystując wszystko czego do tej pory się nauczyliśmy, będziemy rozwijać nasze portfolio.
+    Poznamy [Figmę][figma] - program ułatwiający projektowanie stron internetowych.
 
 === "Lekcja 7"
-    Poznamy [Figmę][figma] - program ułatwiający projektowanie stron internetowych.
+    Wykorzystując wszystko czego do tej pory się nauczyliśmy, będziemy rozwijać nasze portfolio.
 
 ## Technologie i narzędzia, z których będziesz korzystać
 
