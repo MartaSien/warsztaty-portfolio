@@ -8,6 +8,8 @@ icon: lucide/rocket
 [figma]: https://www.figma.com/
 [github]: https://www.github.com/
 [ghactions]: https://docs.github.com/en/actions
+[zensical]: https://github.com/zensical/zensical
+[pelican]: https://getpelican.com/
 
 # Wstęp
 
@@ -24,40 +26,54 @@ Oto notatki do kursu z tworzenia personalnego portfolio przy pomocy statycznego 
 - zajęcia na żywo
 - miejsce: [Hackerspace Trójmiasto](https://hs3.pl/)
 - wstęp darmowy, ale zachęcam do wsparcia [Hackerspace Trójmiasto](https://hs3.pl/zasoby/czlonkostwo/) :heart:
-- :clock: zajęcia w co drugą środę miesiąca w godzinach `17:00 - 20:00`
+- :clock: zajęcia w co drugi czwartek miesiąca w godzinach `17:00 - 20:00`
+- notatki na kolejne zajęcia będą stopniowo udostępniane tutaj
+- wszelkie pytania proszę kierować na wątek [Discourse](https://kb.hs3.pl/t/warsztaty-z-tworzenia-strony-internetowej-personalnego-porftolio/1023)
 
 ## Harmonogram
 
 | Data | Treść zajęć |
 | :--- | :--- |
-| `07.10` | [Przygotowanie środowiska i git](lekcja-1) |
-| `21.10` | Pelican |
-| `04.11` | GitHub i repo na remote |
-| `18.11` | GitHub Actions |
-| `02.12` | Zensical |
-| `02.16` | Wspólna praca nad portfolio |
+| `08.10` | [Przygotowanie środowiska i git](lekcja-1) |
+| `22.10` | Pelican |
+| `05.11` | GitHub i repo na remote |
+| `19.11` | GitHub Actions |
+| `03.12` | Zensical |
+| `03.16` | Wspólna praca nad portfolio |
 | :snowman::snowman::snowman: | Przerwa świąteczna |
-| `13.01` | Figma i zakończenie kursu |
+| `14.01` | Figma i zakończenie kursu |
 
 === "Lekcja 1"
     Nauczymy się czym jest git i zainstalujemy programy potrzebne do dalszej pracy.
     Stworzymy nasze pierwsze repozytorium.
 
 === "Lekcja 2"
-    Stworzymy pierwszą statyczną stronę w generatorze Pelican.
+    Stworzymy pierwszą statyczną stronę w generatorze [`Pelican`][pelican].
 
 === "Lekcja 3"
     Nauczymy się czym jest [GitHub][github], stworzymy darmowe konto.
-    Opublikujemy tam naszą pierwszą statyczną stronę online.
+    Opublikujemy tam nasze repozytorium.
+
+=== "Lekcja 4"
+    Poznamy możliwości [`GitHub Actions`][ghactions] - potężnego narzędzia do automatyzacji.
+
+=== "Lekcja 5"
+    Stworzymy statyczną stronę w generatorze [`Zensical`][zensical].
+
+=== "Lekcja 6"
+    Wykorzystując wszystko czego do tej pory się nauczyliśmy, będziemy rozwijać nasze portfolio.
+
+=== "Lekcja 7"
+    Poznamy [Figmę][figma] - program ułatwiający projektowanie stron internetowych.
 
 ## Technologie i narzędzia, z których będziesz korzystać
 
-* [`Zensical`](https://github.com/zensical/zensical)
-* [`Pelican`](https://getpelican.com/)
-* [`GitHub Actions`][ghactions] - 
+* [`Zensical`][zensical] - Generator statycznych stron internetowych
+* [`Pelican`][pelican] - Generator statycznych stron internetowych
+* [`GitHub Actions`][ghactions] - Narzędzie do automatyzacji
 * [`git`][git] - Najpopularniejszy system kontroli wersji
 * [`Python`][python] - Język programowania łatwy na początek
-* [`Visual Studio Code`][vscode] - Edytor kodu
+* [`Visual Studio Code`][vscode] - Edytor kodu (najczęściej określany jako "IDE" - Integrated Development Environment)
 * [`Figma`][figma] - Program do projektowania stron internetowych
 
 ## Jak się przygotować do zajęć?

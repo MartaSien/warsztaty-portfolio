@@ -92,7 +92,7 @@ git branch "initial-python-script"
 
 #### Tworzymy plik .gitignore
 
-Plik `.gitignore` służy do wyszczególniania plików i folderów, których nie chcemy udostępnić innym - pliki cache, sekrety, lokalne ustawienia. Zmiany w tych plikach nie będą śledzone przez `git`.
+Plik `.gitignore` służy do wybierania plików i folderów, których nie chcemy udostępnić innym - pliki cache, sekrety, lokalne ustawienia. Zmiany w tych plikach nie będą śledzone przez `git`.
 
 ??? info ".gitignore"
     ```bash
@@ -140,7 +140,7 @@ git branch -d initial-python-script
 
 `git revert` nie usuwa historii. Tworzy nowy commit, który odwraca zmiany z wybranego commita.
 
-Najpierw sprawdzamy identyfikator commita:
+Najpierw sprawdzamy ID commita:
 
 ```bash
 git log
