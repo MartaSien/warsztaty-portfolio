@@ -14,6 +14,18 @@ python -m pip install "pelican[markdown]"
 pelican-quickstart
 ```
 
+## Budowanie strony
+
+```
+pelican content
+```
+
+## Strona lokalnie
+
+```
+pelican --listen
+```
+
 ## Nagłówki
 
 

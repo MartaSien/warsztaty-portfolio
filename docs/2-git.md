@@ -1,61 +1,6 @@
----
-icon: lucide/rocket
----
+# Lekcja 2: Git i zaawansowane fukcje Pelican
 
-# Lekcja 1: Przygotowanie środowiska
-
-## Git
-
-Tworzymy folder naszego repozytorium
-
-```bash
-mkdir my-project
-cd my-project
-```
-
-Inicjujemy repozytorium w aktualnym folderze.
-
-```
-git init
-```
-
-Tworzymy pusty plik Markdown (md).
-
-```
-touch README.md
-```
-
-Sprawdzamy czy nam się udało.
-
-```
-git status
-```
-
-??? info "Taki powinien być wynik komendy:"
-    ```bash
-    On branch master
-
-    No commits yet
-
-    Untracked files:
-    (use "git add <file>..." to include in what will be committed)
-            README.md
-
-    nothing added to commit but untracked files present (use "git add" to track)
-    ```
-
-
-### Tworzymy pierwszy commit
-
-```
-git stage README.md
-```
-
-```
-git commit -m "Add README.md"
-```
-
-### Dlaczego programiści używają git?
+## Dlaczego programiści używają git?
 
 > [A brief introduction to Git for beginners | GitHub](https://www.youtube.com/watch?v=r8jQ9hVA2qs)
 Git to najbardziej znany system kontroli wersji (ale nie jedyny).
@@ -72,25 +17,17 @@ Programiści wykorzystują git by:
 - współpracować równolegle z innymi na jednym pliku
 - zapisywać kilka wariantów tego samego projektu
 
-## Visual Studio Code
+## Wstęp
 
-IDE (Integrated Development Environment) - darmowy edytor kodu, który oferuje wiele narzędzi ułatwiających programowanie. Na przykład, formatowanie, wykrywanie błędów w kodzie źródłowym, integracja z `git` i pełno wtyczek dodatkowo rozszerzających jego funkcje.
+### Otwieramy nasze repozytorium `my-portfolio`.
 
-### Instalacja
-
-- [download Visual Studio Code](https://code.visualstudio.com/download?_exp_download=d53503e735)
-
-### Wstęp
-
-#### Otwieramy nasze repozytorium `my-project`.
-
-#### Tworzymy nowy branch i robimy na nim zmiany
+### Tworzymy nowy branch i robimy na nim zmiany
 
 ```
-git branch "initial-python-script"
+git branch "initial-website"
 ```
 
-#### Tworzymy plik .gitignore
+### Tworzymy plik .gitignore
 
 Plik `.gitignore` służy do wybierania plików i folderów, których nie chcemy udostępnić innym - pliki cache, sekrety, lokalne ustawienia. Zmiany w tych plikach nie będą śledzone przez `git`.
 
@@ -99,16 +36,7 @@ Plik `.gitignore` służy do wybierania plików i folderów, których nie chcemy
     __pycache__
     ```
 
-Tutaj tworzymy commit tak jak [poprzednio](#tworzymy-pierwszy-commit).
-
-#### Tworzymy prosty skrypt w Python
-
-??? info "hello-world.py"
-    ```python
-    print("Hello, World")
-    ```
-
-Testujemy czy działa i również go commitujemy (tu ściągniesz i zainstalujesz [Python](https://www.python.org/)).
+Tutaj tworzymy commit tak jak poprzednio.
 
 ### Merge'ujemy zmiany do brancha głównego
 

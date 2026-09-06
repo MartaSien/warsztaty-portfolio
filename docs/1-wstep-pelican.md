@@ -1,33 +1,30 @@
----
-icon: lucide/rocket
----
-
-# Lekcja 2: Pelican
+# Lekcja 1: Wstęp do Pelican
 
 - [Pelican docs](https://docs.getpelican.com/en/latest/)
 
-## Instalacja
+## Otwieramy nasz projekt `moje-portfolio`
 
-### Pobieramy bibliotekę
+Alternatywnie, możemy stworzyć nowy:
+
+```
+mkdir -p ~/projects/pelican-portfolio
+cd ~/projects/pelican-portfolio
+git init
+```
+
+## Pobieramy bibliotekę
 
 ```bash
 python -m pip install "pelican[markdown]"
 ```
 
-### Tworzymy folder projektu
-
-```
-mkdir -p ~/projects/pelican-portfolio
-cd ~/projects/pelican-portfolio
-```
-
-### Inicjujemy projekt
+## Inicjujemy projekt
 
 ```
 pelican-quickstart
 ```
 
-### Dodajemy pierwszy post
+## Dodajemy pierwszy post
 
 Tworzymy plik `my-post.md` w folderze `content`.
 
@@ -48,17 +45,26 @@ This is the content of my super blog post.
 
 Dla ułatwienia, zainstalowaliśmy wcześniej Pelican z rozszerzeniem `markdown`. Pozwala nam ono na tworzenie postów w formacie Markdown. Innym dostępnym formatem jest reStructuredText.
 
-### Uruchamiamy stronę lokalnie
+## Budujemy stronę
+
+```
+pelican content
+```
+
+## Uruchamiamy stronę lokalnie
 
 ```
 pelican --listen
 ```
 
-### Przykład
+## Krok po kroku na wideo
+
+![pelican-intro](pelican-intro.gif)
+
+## Przykład
 
 - [pelican-sandbox](https://github.com/MartaSien/pelican-sandbox) - stworzyłam tą przykładową stronę by zademonstrować Wam jak możecie rozpocząć tworzenie portfolio
 
+## Pelican themes
 
-### Pelican themes
-
-Wygląd naszej strony możemy dostosować przy pomocy [themes](https://docs.getpelican.com/en/latest/pelican-themes.html). 
+Wygląd naszej strony możemy dostosować przy pomocy [themes](https://docs.getpelican.com/en/latest/pelican-themes.html).

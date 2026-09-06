@@ -34,8 +34,8 @@ Oto notatki do kursu z tworzenia personalnego portfolio przy pomocy statycznego 
 
 | Data | Treść zajęć |
 | :--- | :--- |
-| `08.10` | [Przygotowanie środowiska i git](lekcja-1) |
-| `22.10` | Pelican |
+| `08.10` | [Przygotowanie środowiska](srodowisko) i [wstęp do Pelican](pelican) |
+| `22.10` | [Git i zaawansowane fukcje Pelican](lekcja-2) |
 | `05.11` | GitHub i repo na remote |
 | `19.11` | GitHub Actions |
 | `03.12` | Zensical |
@@ -44,11 +44,12 @@ Oto notatki do kursu z tworzenia personalnego portfolio przy pomocy statycznego 
 | `14.01` | Wspólna praca nad portfolio i zakończenie kursu |
 
 === "Lekcja 1"
-    Nauczymy się czym jest git i zainstalujemy programy potrzebne do dalszej pracy.
-    Stworzymy nasze pierwsze repozytorium.
+    Zainstalujemy programy potrzebne do warsztatów.
+    Stworzymy pierwszą statyczną stronę w generatorze [`Pelican`][pelican].
 
 === "Lekcja 2"
-    Stworzymy pierwszą statyczną stronę w generatorze [`Pelican`][pelican].
+    Nauczymy się czym jest git i będziemy rozwijać naszą stronę.
+    Poznamy możliwości generatora [`Pelican`][pelican]. 
 
 === "Lekcja 3"
     Nauczymy się czym jest [GitHub][github], stworzymy darmowe konto.
