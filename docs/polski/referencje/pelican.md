@@ -26,10 +26,7 @@ pelican content
 pelican --listen
 ```
 
-## Nagłówki
-
-
-### Metadane
+## Metadane
 
 W Pelican, dodawane na górze strony:
 
@@ -50,3 +47,21 @@ Summary: A quick overview of markdown formatting in Pelican.
 ```
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fC9PZrvA6ho?si=gQNO57FM2IYzUzA4" frameborder="0" allowfullscreen></iframe>
+
+## Pelican themes
+
+Wygląd strony Pelican różni się diametralnie zależnie od użytego motywu (theme).
+
+- [GitHub | pelican-themes](https://github.com/getpelican/pelican-themes)
+- [pelicanthemes.com](https://pelicanthemes.com/)
+
+## Pelican plugins
+
+Funkcje Pelican są rozwijane poprzez wtyczki.
+
+- [GitHub | pelican-plugins](https://github.com/pelican-plugins)
+
+### Wtyczki, które mogą Ci się przydać
+
+- [search](https://github.com/pelican-plugins/search) - dodaje opcję wyszukiwania na stronie
+- [image-process](https://github.com/pelican-plugins/image-process) - optymalizuje załączone na stronie obrazy

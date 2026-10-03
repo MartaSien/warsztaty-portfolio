@@ -68,3 +68,24 @@ pelican --listen
 ## Pelican themes
 
 Wygląd naszej strony możemy dostosować przy pomocy [themes](https://docs.getpelican.com/en/latest/pelican-themes.html).
+
+### Klonujemy repo z themes
+
+```
+git clone --recursive https://github.com/getpelican/pelican-themes ~/pelican-themes
+```
+
+### Zmieniamy domyślny theme strony
+
+Ścieżka może być stała lub relatywna do pliku `pelicanconf.py`
+
+```
+THEME = "themes/martin-pelican"
+```
+
+### Odbudowujemy stronę i uruchamiamy ją
+
+```
+pelican content
+pelican --listen
+```
