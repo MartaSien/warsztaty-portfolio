@@ -246,7 +246,7 @@ features = [
     # When navigation integration for the table of contents is enabled, it is
     # always rendered as part of the navigation sidebar on the left.
     # https://zensical.org/docs/setup/navigation/#navigation-integration
-    #"toc.integrate",
+    "toc.integrate",
 ]
 
 # ----------------------------------------------------------------------------
@@ -353,3 +353,6 @@ alternate = [
   { name = "Polish", link = "/polski/", lang = "pl" },
   { name = "English", link = "/english/", lang = "en" },
 ]
+
+[project.plugins.redirects.redirect_maps]
+"index.md" = "polski/index.md"

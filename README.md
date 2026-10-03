@@ -1,3 +1,5 @@
+![blahaj](warsztaty-portfolio.jpg)
+
 # Warsztaty z tworzenia strony internetowej - personalnego porftolio
 
 Zapraszam na darmowe warsztaty z tworzenia personalnego portfolio przy pomocy statycznego generatora strony internetowej. Warsztaty zostaną przeprowadzone na żywo, w Gdańsku, w siedzibie [Hackerspace Trójmiasto](https://hs3.pl/).
