@@ -2,22 +2,18 @@
 icon: lucide/rocket
 ---
 
-
-[git]: [https:/git-scm.com/](https:/git-scm.com/)
-[python]: [https:/www.python.org/](https:/www.python.org/)
-[vscode]: [https:/code.visualstudio.com/](https:/code.visualstudio.com/)
-[figma]: [https:/www.figma.com/](https:/www.figma.com/)
-[github]: [https:/www.github.com/](https:/www.github.com/)
-[ghactions]: [https:/docs.github.com/en/actions](https:/docs.github.com/en/actions)
-[zensical]: [https:/github.com/zensical/zensical](https:/github.com/zensical/zensical)
-[pelican]: [https:/getpelican.com/](https:/getpelican.com/)
-
+[git]: https://git-scm.com/
+[python]: https://www.python.org/
+[vscode]: https://code.visualstudio.com/
+[figma]: https://www.figma.com/
+[github]: https://www.github.com/
+[ghactions]: https://docs.github.com/en/actions
+[zensical]: https://github.com/zensical/zensical
+[pelican]: https://getpelican.com/
 
 # Introduction
 
-
 These are notes for a course on creating a personal portfolio using a static website generator.
-
 
 !!! info "During the course, you will learn"
 
@@ -43,8 +39,8 @@ These are notes for a course on creating a personal portfolio using a static web
 
 | Date | Lesson |
 | :--- | :--- |
-| `08.10` | [Setting up the environment](1-srodowisko) and [introduction to Pelican](1-wstep-pelican) |
-| `22.10` | [Git and advanced Pelican features](2-git) |
+| `08.10` | [Setting up the environment](1-srodowisko.md) and [introduction to Pelican](1-wstep-pelican.md) |
+| `22.10` | [Git and advanced Pelican features](2-git.md) |
 | `05.11` | GitHub and remote repositories |
 | `19.11` | GitHub Actions |
 | `03.12` | Zensical |

@@ -6,9 +6,9 @@
 
 ## Installing the Required Tools
 
-- [git] - The most popular version control system (we'll learn more about this in upcoming lessons). See also: [Git in 5 Minutes](referencje/git)
+- [git] - The most popular version control system (we'll learn more about this in upcoming lessons). See also: [Git in 5 Minutes](references/git.md)
 - [python] - The programming language required for the Pelican static site generator. It's an easy language to start your programming journey with.
-- [Visual Studio Code][vscode] - A code editor that will significantly simplify working on this project. See also: [Visual Studio Code in 5 Minutes](referencje/vscode)
+- [Visual Studio Code][vscode] - A code editor that will significantly simplify working on this project. See also: [Visual Studio Code in 5 Minutes](references/vscode.md)
 
 ## Creating a New Project
 

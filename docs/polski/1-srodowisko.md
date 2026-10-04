@@ -6,9 +6,9 @@
 
 ## Instalujemy potrzebne narzędzia
 
-- [git] - Najpopularniejszy system kontroli wersji (dowiemy się o tym więcej na kolejnych zajęciach). Zobacz też: [git w 5 minut](referencje/git)
+- [git] - Najpopularniejszy system kontroli wersji (dowiemy się o tym więcej na kolejnych zajęciach). Zobacz też: [git w 5 minut](referencje/git.md)
 - [python] - Język programowania potrzebny do generatora Pelican. Łatwy język na początek przygody z programowaniem.
-- [Visual Studio Code][vscode] - Edytor kodu, który znacznie ułatwi nam pracę nad projektem. Zobacz też: [Visual Studio Code w 5 minut](referencje/vscode)
+- [Visual Studio Code][vscode] - Edytor kodu, który znacznie ułatwi nam pracę nad projektem. Zobacz też: [Visual Studio Code w 5 minut](referencje/vscode.md)
 
 ## Tworzymy nowy projekt
 
