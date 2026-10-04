@@ -215,7 +215,7 @@ features = [
     # When tabs are enabled, top-level sections are rendered in a menu layer
     # below the header for viewports above 1220px, but remain as-is on mobile.
     # https://zensical.org/docs/setup/navigation/#navigation-tabs
-    #"navigation.tabs",
+    "navigation.tabs",
 
     # When sticky tabs are enabled, navigation tabs will lock below the header
     # and always remain visible when scrolling down.
@@ -348,11 +348,11 @@ combine_header_slug = true
 custom_checkbox = true
 [project.markdown_extensions.pymdownx.tilde]
 
-[project.extra]
-alternate = [
-  { name = "Polish", link = "/polski/", lang = "pl" },
-  { name = "English", link = "/english/", lang = "en" },
-]
+#[project.extra]
+#alternate = [
+#  { name = "Polish", link = "/polski/", lang = "pl" },
+#  { name = "English", link = "/english/", lang = "en" },
+#]
 
 [project.plugins.redirects.redirect_maps]
 "index.md" = "polski/index.md"
