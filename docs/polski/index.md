@@ -35,7 +35,7 @@ Oto notatki do kursu z tworzenia personalnego portfolio przy pomocy statycznego 
 | Data | Treść zajęć |
 | :--- | :--- |
 | `08.10` | [Przygotowanie środowiska](1-srodowisko.md) i [wstęp do Pelican](1-wstep-pelican.md) |
-| `22.10` | [Git i zaawansowane fukcje Pelican](2-git.md) |
+| `22.10` | [Git i zaawansowane fukcje Pelican](2a-git.md) |
 | `05.11` | GitHub i repo na remote |
 | `19.11` | GitHub Actions |
 | `03.12` | Zensical |
