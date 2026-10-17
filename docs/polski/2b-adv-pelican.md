@@ -55,4 +55,4 @@ Przed chwilą mieliśmy przedwstęp do tworzenia własnych fragmentów strony HT
 
 - [Utopia - fluid responsive design](https://utopia.fyi/)
 - [mdn Mozilla](https://developer.mozilla.org/en-US/)
-- `validator.w3.org` - statyczna analiza HTML
+- [validator.w3.org](https://validator.w3.org/) - statyczna analiza HTML
