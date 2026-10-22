@@ -32,3 +32,11 @@ git status
 git add .
 git commit -m "Opis zmian"
 ```
+
+### W razie problemów
+
+1. Nie można aktywować wirtualnego środowiska `cannot be loaded because the execution of scripts is disabled on this system`
+
+```
+Set-ExecutionPolicy Unrestricted -Scope Process
+```
