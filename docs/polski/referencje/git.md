@@ -33,10 +33,6 @@ git add .
 git commit -m "Opis zmian"
 ```
 
-### W razie problemów
+## Przydatne zasoby
 
-1. Nie można aktywować wirtualnego środowiska `cannot be loaded because the execution of scripts is disabled on this system`
-
-```
-Set-ExecutionPolicy Unrestricted -Scope Process
-```
+- [git - prosty przewodnik](https://rogerdudler.github.io/git-guide/index.pl.html)
