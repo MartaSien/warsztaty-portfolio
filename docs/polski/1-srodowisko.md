@@ -24,3 +24,49 @@ komenda | wynik
 --- | ---
 `git version` | `git version 2.45.1.windows.1`
 `python --version` | `Python 3.14.3`
+
+### W razie problemów
+
+Windows potrafi zablokować wykonywanie niektórych komend, szczególnie związanych z językiem Python. 
+Oto rozwiązania na potencjalne problemy, które mogą się pojawić.
+
+#### Nie można aktywować wirtualnego środowiska `cannot be loaded because the execution of scripts is disabled on this system`
+
+```
+Set-ExecutionPolicy Unrestricted -Scope Process
+```
+
+#### Windows Defender blokuje instalowanie paczek Python
+
+Przykładowa komenda, przy której może pojawić się ten problem:
+```
+python -m pip install "pelican[markdown]"
+```
+
+Zezwól aplikacji python na komunikowanie się przez zaporę Windows:
+
+![python-windows](python-windows.png)
+
+#### Inne problemy z językiem Python i instalowaniem paczek
+
+Przy pracy z Pythonem może zdarzyć się, że zainstalujesz kilka różnych wersji tego języka w różnych miejscach w swoim lokalnym środowisku.
+Czasem zdarza się, że dana konsola lub program korzystają z innej wersji Pythona niż ta, w której masz zainstalowane paczki.
+
+- Żeby zdiagnozować ten problem, sprawdź z której wersji Pythona korzysta Twoja konsola:
+
+=== "Linux/macOS"
+    ```
+    which python
+    ```
+
+=== "Windows"
+    ```
+    where python
+    ```
+
+- Zawsze staraj się korzystać z wirtualnego środowiska.
+
+- Jeśli masz problem w Visual Studio Code, skorzystaj z opcji 'Select Interpreter':
+
+![select-interpreter](select-interpreter.gif)
+
