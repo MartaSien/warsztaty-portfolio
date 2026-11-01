@@ -127,3 +127,8 @@ branch 'main' set up to track 'origin/main'.
 Sprawdźmy czy pierwsza akcja się wykonała i udało się nam opublikować stronę:
 
 - [zensical-test-website/actions](https://github.com/MartaSien/zensical-test-website/actions)
+
+Tak wygląda akcja wykonana z sukcesem. 😊
+Nasza strona powinna być dostępna pod wygenerowanym linkiem: https://martasien.github.io/zensical-test-website/
+
+![action-success](action-success.png)
