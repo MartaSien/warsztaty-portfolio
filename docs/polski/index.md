@@ -37,11 +37,11 @@ Oto notatki do kursu z tworzenia personalnego portfolio przy pomocy statycznego 
 | `08.10` | [Przygotowanie środowiska](1-srodowisko.md) i [wstęp do Pelican](1-wstep-pelican.md) |
 | `22.10` | [Git i zaawansowane fukcje Pelican](2a-git.md) |
 | `05.11` | GitHub i repo na remote |
-| `19.11` | GitHub Actions |
+| `19.11` | Figma |
 | `03.12` | Zensical |
-| `17.12` | Figma |
+| `17.12` | Wspólna praca nad stroną |
 | :snowman::snowman::snowman: | Przerwa świąteczna |
-| `14.01` | Wspólna praca nad portfolio i zakończenie kursu |
+| `14.01` | Wspólna praca nad stroną i zakończenie kursu |
 
 === "Lekcja 1"
     Zainstalujemy programy potrzebne do warsztatów.
@@ -53,19 +53,20 @@ Oto notatki do kursu z tworzenia personalnego portfolio przy pomocy statycznego 
 
 === "Lekcja 3"
     Nauczymy się czym jest [GitHub][github], stworzymy darmowe konto.
-    Opublikujemy tam nasze repozytorium.
+    Opublikujemy tam nasze repozytorium. 
+    Poznamy możliwości [`GitHub Actions`][ghactions] - potężnego narzędzia do automatyzacji.
 
 === "Lekcja 4"
-    Poznamy możliwości [`GitHub Actions`][ghactions] - potężnego narzędzia do automatyzacji.
+    Poznamy [Figmę][figma] - program ułatwiający projektowanie stron internetowych.
 
 === "Lekcja 5"
     Stworzymy statyczną stronę w generatorze [`Zensical`][zensical].
 
 === "Lekcja 6"
-    Poznamy [Figmę][figma] - program ułatwiający projektowanie stron internetowych.
+    Wykorzystując wszystko czego do tej pory się nauczyliśmy, będziemy rozwijać naszą stronę.
 
 === "Lekcja 7"
-    Wykorzystując wszystko czego do tej pory się nauczyliśmy, będziemy rozwijać nasze portfolio.
+    Wykorzystując wszystko czego do tej pory się nauczyliśmy, będziemy rozwijać naszą stronę.
 
 ## Technologie i narzędzia, z których będziesz korzystać
 

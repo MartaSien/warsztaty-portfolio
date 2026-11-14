@@ -42,11 +42,11 @@ These are notes for a course on creating a personal portfolio using a static web
 | `08.10` | [Setting up the environment](1-srodowisko.md) and [introduction to Pelican](1-wstep-pelican.md) |
 | `22.10` | [Git and advanced Pelican features](2-git.md) |
 | `05.11` | GitHub and remote repositories |
-| `19.11` | GitHub Actions |
+| `19.11` | Figma |
 | `03.12` | Zensical |
-| `17.12` | Figma |
+| `17.12` | Working together on our websites |
 | :snowman::snowman::snowman: | Holiday break |
-| `14.01` | Working together on your portfolio and course wrap-up |
+| `14.01` | Working together on  our websites, course wrap-up |
 
 
 === "Lesson 1"
@@ -62,10 +62,11 @@ These are notes for a course on creating a personal portfolio using a static web
 === "Lesson 3"
     We will learn what [GitHub][github] is and create a free account.
     We will publish our repository there.
+    We will explore the capabilities of [`GitHub Actions`][ghactions] — a powerful automation tool.
 
 
 === "Lesson 4"
-    We will explore the capabilities of [`GitHub Actions`][ghactions] — a powerful automation tool.
+    We will get to know [Figma][figma] — a tool that makes website design easier.
 
 
 === "Lesson 5"
@@ -73,11 +74,11 @@ These are notes for a course on creating a personal portfolio using a static web
 
 
 === "Lesson 6"
-    We will get to know [Figma][figma] — a tool that makes website design easier.
+    Using everything we have learned so far, we will continue developing our websites.
 
 
 === "Lesson 7"
-    Using everything we have learned so far, we will continue developing our portfolios.
+    Using everything we have learned so far, we will continue developing our websites.
 
 
 ## Technologies and tools you will use
