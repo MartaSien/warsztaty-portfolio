@@ -38,7 +38,7 @@ Oto notatki do kursu z tworzenia personalnego portfolio przy pomocy statycznego 
 | `22.10` | [Git i zaawansowane fukcje Pelican](2a-git.md) |
 | `05.11` | GitHub i repo na remote |
 | `19.11` | Figma |
-| `03.12` | Zensical |
+| `03.12` | Zajęcia odwołane - udało się nam już przerobić Zensical |
 | `17.12` | Wspólna praca nad stroną |
 | :snowman::snowman::snowman: | Przerwa świąteczna |
 | `14.01` | Wspólna praca nad stroną i zakończenie kursu |
